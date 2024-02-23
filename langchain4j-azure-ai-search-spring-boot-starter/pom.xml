@@ -11,15 +11,15 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>langchain4j-azure-open-ai-spring-boot-starter</artifactId>
-    <name>LangChain4j Spring Boot starter for Azure OpenAI</name>
+    <artifactId>langchain4j-azure-ai-search-spring-boot-starter</artifactId>
+    <name>LangChain4j Spring Boot starter for Azure AI Search</name>
     <packaging>jar</packaging>
 
     <dependencies>
 
         <dependency>
             <groupId>dev.langchain4j</groupId>
-            <artifactId>langchain4j-azure-open-ai</artifactId>
+            <artifactId>langchain4j-azure-ai-search</artifactId>
             <version>${project.version}</version>
         </dependency>
 
